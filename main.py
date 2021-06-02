@@ -1,6 +1,6 @@
 # Create a function that prints my name
 def main():
-    print('Jason Maraz')
+    print(name)
 
 # Call the function
 main()
