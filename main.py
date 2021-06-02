@@ -1,4 +1,5 @@
-# Create a function that prints my name
+# Create a function that prints names
+
 def main():
     print(name)
 
